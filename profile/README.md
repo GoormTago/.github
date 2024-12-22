@@ -14,9 +14,6 @@
 ## 🌟 조직 소개
 
 모다가는 제주 지역 어르신들이 겪는 교통 불편을 해결하기 위해 만들어진 혁신적인 서비스입니다.<br/><br/>
-
-## 🍊 Teams
-
 |                                              기획                                               |                                            디자인                                             |                                             FE                                              |                                             FE                                              |                                             BE                                              |
 | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 | <img src="https://raw.githubusercontent.com/GoormTago/.github/main/profile/성수진님.png" alt="성수진" width="108" height="108" style="border-radius:50%" />     | <img src="https://raw.githubusercontent.com/GoormTago/.github/main/profile/천민정님.png" alt="천민정" width="108" height="108" style="border-radius:50%" />     | <img src="https://raw.githubusercontent.com/GoormTago/.github/main/profile/여승철님.png" alt="여승철" width="108" height="108" style="border-radius:50%" /> | <img src="https://raw.githubusercontent.com/GoormTago/.github/main/profile/이은영님.png" alt="이은영" width="108" height="108" style="border-radius:50%" /> | <img src="https://raw.githubusercontent.com/GoormTago/.github/main/profile/이상국님.png" alt="이상국" width="108" height="108" style="border-radius:50%" /> |
