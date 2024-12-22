@@ -71,4 +71,20 @@
 
 ---
 
+## 📂 Git Repository
+
+- **GitHub Repository**: [9oormthon-goldroad](https://github.com/goldroad)  
+  모다가 프로젝트의 전체 코드와 구현 과정은 위 GitHub 리포지토리에서 확인할 수 있습니다.
+
+  ### 프로젝트별 리포지토리
+    - **Frontend**: [GroomTago/goorm-tago-frontend](https://github.com/GroomTago/goorm-tago-frontend.git)  
+    - **Backend**: [GroomTago/goorm-tago-backend](https://github.com/GroomTago/goorm-tago-backend.git)  
+    - **Flask API**: [GroomTago/goorm-tago-flask](https://github.com/GroomTago/goorm-tago-flask.git)  
+    - **Main Repository**: [GroomTago/goorm-tago-main](https://github.com/GroomTago/goorm-tago-main.git)  
+
+모다가 프로젝트의 전체 코드는 위 리포지토리에서 확인할 수 있습니다.
+
+
+---
+
 Team 구름타고 | 12th 9oormthon in Jeju
