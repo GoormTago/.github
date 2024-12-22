@@ -8,7 +8,7 @@
 > 12th 9oormthon in Jeju, **제주 어르신들을 위한 택시 동승 서비스**
 > 
 
----
+
 <br/>
 
 ## 🌟 조직 소개
@@ -18,7 +18,7 @@
 ## 🍊 Teams
 
 |                                              기획                                               |                                            디자인                                             |                                             FE                                              |                                             FE                                              |                                             BE                                              |
-| :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| :: | :-: | :--: | :--: | :--: |
 | <img src="../profile/성수진님.png" alt="성수진" width="108" height="108"  style="border-radius:50%" />     | <img src="../profile/천민정님.png" alt="천민정" width="108" height="108"  style="border-radius:50%" />     | <img src="../profile/여승철님.png" alt="여승철" width="108" height="108"  style="border-radius:50%" /> | <img src="../profile/이은영님.png" alt="이은영" width="108" height="108"  style="border-radius:50%" /> | <img src="../profile/이상국님.png" alt="이상국" width="108" height="108"  style="border-radius:50%" /> |
 |                                            성수진                                               |                                            천민정                                             |                                            여승철                                           |                                            이은영                                           |                                            이상국                                           |
 
@@ -28,7 +28,7 @@
 
 사회적 고립을 줄이고 이동권을 확대하는 데 중점을 두고 있습니다.
 
----
+
 
 ## 💡 프로젝트 배경
 
@@ -51,7 +51,7 @@
 - **대한민국 노인 빈곤율 OECD 1위** (43.4%)로 택시 이용 부담 가중.
 - 제주 행복택시 지원에도 불구하고 금액 부족으로 대중교통 의존.
 
----
+
 
 ## 🚀 솔루션: 모다가
 
@@ -73,7 +73,7 @@
     - 고령자를 고려한 직관적 UI/UX.
     - 음성지원과 SMS 기반 서비스 제공.
 
----
+
 
 ## 🌍 기대 효과
 
@@ -84,14 +84,14 @@
 - **사회적 고립 해소**: 외출 빈도 증가 및 사회 활동 확대.
 - **삶의 질 향상**: 건강 관리 및 여가 활동 접근성 강화.
 
----
+
 
 ## 🔧 기술 스택
 
 ![구름타고-13.png](../img/구름타고-13.png)
 
 | **Front-End** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - | - |
 | **Back-End**  | ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-%23003345.svg?style=for-the-badge&logo=mariadb&logoColor=white)                                   |
 | **Tools**     | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)                                                 |
 
@@ -103,14 +103,14 @@
 - **Infra** : kakao krampoline / Docker&K8S / OCI(Oracle)
 - **Design** : FIgma
 
----
+
 
 ## 🔗 서비스 URL
 
 - **krampoline URL**: [크램폴린 링크](https://k28f46a14160fa.user-app.krampoline.com/)
 - **Primary URL**: [goormtago.qook.io](http://goormtago.qook.io/)
 
----
+
 
 ## 📂 Git Repository
 
@@ -128,7 +128,7 @@
     ** 모다가 프로젝트의 전체 코드는 위 리포지토리에서 확인할 수 있습니다.
     
 
----
+
 
 ![구름타고-15.png](../img/구름타고-15.png)
 
