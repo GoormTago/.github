@@ -1,6 +1,6 @@
 # 모다가 - 이동의 새 시대를 열다
 
-![구름타고-01.png](../img/구름타고-01.png)
+![구름타고-01.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-01.png)
 
 > 함께 더 나은 제주를 만들어가는 Team 구름타고
 > 
@@ -18,9 +18,10 @@
 ## 🍊 Teams
 
 |                                              기획                                               |                                            디자인                                             |                                             FE                                              |                                             FE                                              |                                             BE                                              |
-| :: | :-: | :--: | :--: | :--: |
-| <img src="../profile/성수진님.png" alt="성수진" width="108" height="108"  style="border-radius:50%" />     | <img src="../profile/천민정님.png" alt="천민정" width="108" height="108"  style="border-radius:50%" />     | <img src="../profile/여승철님.png" alt="여승철" width="108" height="108"  style="border-radius:50%" /> | <img src="../profile/이은영님.png" alt="이은영" width="108" height="108"  style="border-radius:50%" /> | <img src="../profile/이상국님.png" alt="이상국" width="108" height="108"  style="border-radius:50%" /> |
+| :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| <img src="https://github.com/GoormTago/.github/raw/main/profile/성수진님.png" alt="성수진" width="108" height="108" style="border-radius:50%" />     | <img src="https://github.com/GoormTago/.github/raw/main/profile/천민정님.png" alt="천민정" width="108" height="108" style="border-radius:50%" />     | <img src="https://github.com/GoormTago/.github/raw/main/profile/여승철님.png" alt="여승철" width="108" height="108" style="border-radius:50%" /> | <img src="https://github.com/GoormTago/.github/raw/main/profile/이은영님.png" alt="이은영" width="108" height="108" style="border-radius:50%" /> | <img src="https://github.com/GoormTago/.github/raw/main/profile/이상국님.png" alt="이상국" width="108" height="108" style="border-radius:50%" /> |
 |                                            성수진                                               |                                            천민정                                             |                                            여승철                                           |                                            이은영                                           |                                            이상국                                           |
+
 
 
 
@@ -34,11 +35,11 @@
 
 ### 제주 어르신들의 교통 현실
 
-![구름타고-02.png](../img/구름타고-02.png)
+![구름타고-02.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-02.png)
 
-![구름타고-03.png](../img/구름타고-03.png)
+![구름타고-03.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-03.png)
 
-![구름타고-04.png](../img/구름타고-04.png)
+![구름타고-04.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-04.png)
 
 - 자차 및 대중교통의 불편함과 부족한 택시비 지원으로 이동의 어려움.
 - 고령 운전자 증가로 인한 교통사고 위험.
@@ -46,7 +47,7 @@
 
 ### 문제 인식
 
-![구름타고-05.png](../img/구름타고-05.png)
+![구름타고-05.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-05.png)
 
 - **대한민국 노인 빈곤율 OECD 1위** (43.4%)로 택시 이용 부담 가중.
 - 제주 행복택시 지원에도 불구하고 금액 부족으로 대중교통 의존.
@@ -55,11 +56,11 @@
 
 ## 🚀 솔루션: 모다가
 
-![구름타고-08.png](../img/구름타고-08.png)
-![구름타고-08.png](../img/구름타고-09.png)
-![구름타고-08.png](../img/구름타고-10.png)
-![구름타고-08.png](../img/구름타고-11.png)
-![구름타고-12.png](../img/구름타고-12.png)
+![구름타고-08.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-08.png)
+![구름타고-08.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-09.png)
+![구름타고-08.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-10.png)
+![구름타고-08.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-11.png)
+![구름타고-12.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-12.png)
 
 1. **동승 서비스**
     - 출발지와 목적지 기반 매칭으로 동승자 찾기.
@@ -77,7 +78,7 @@
 
 ## 🌍 기대 효과
 
-![구름타고-14.png](../img/구름타고-14.png)
+![구름타고-14.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-14.png)
 
 - **금전적 부담 감소**: 택시 요금 분담으로 비용 절약.
 - **이동권 확대**: 원하는 시간과 장소에서 이동 가능.
@@ -88,7 +89,7 @@
 
 ## 🔧 기술 스택
 
-![구름타고-13.png](../img/구름타고-13.png)
+![구름타고-13.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-13.png)
 
 | **Front-End** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | - | - |
@@ -130,6 +131,6 @@
 
 
 
-![구름타고-15.png](../img/구름타고-15.png)
+![구름타고-15.png](https://github.com/GoormTago/.github/raw/main/img/구름타고-15.png)
 
 Team 구름타고 | 12th 9oormthon in Jeju
