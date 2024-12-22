@@ -1,6 +1,6 @@
 # 모다가 - 이동의 새 시대를 열다
 
-![구름타고-01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/83220109-7173-48ea-bf48-518fbf86436f/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-01.png)
+![구름타고-01.png](../img/구름타고-01.png)
 
 > 함께 더 나은 제주를 만들어가는 Team 구름타고
 > 
@@ -13,6 +13,14 @@
 ## 🌟 조직 소개
 
 모다가는 제주 지역 어르신들이 겪는 교통 불편을 해결하기 위해 만들어진 혁신적인 서비스입니다.
+## 🍊 Teams
+
+|                                              기획                                               |                                            디자인                                             |                                             FE                                              |                                             FE                                              |                                             BE                                              |
+| :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| <img src="../profile/성수진님.png" alt="성수진" width="108" height="108"  style="border-radius:50%" />     | <img src="../profile/천민정님.png" alt="천민정" width="108" height="108"  style="border-radius:50%" />     | <img src="../profile/여승철님.png" alt="여승철" width="108" height="108"  style="border-radius:50%" /> | <img src="../profile/이은영님.png" alt="이은영" width="108" height="108"  style="border-radius:50%" /> | <img src="../profile/이상국님.png" alt="이상국" width="108" height="108"  style="border-radius:50%" /> |
+|                                            성수진                                               |                                            천민정                                             |                                            여승철                                           |                                            이은영                                           |                                            이상국                                           |
+
+
 
 **"모여서 가다!"**라는 이름처럼, 더 나은 이동 자유와 금전적 부담 완화를 통해
 
@@ -24,11 +32,11 @@
 
 ### 제주 어르신들의 교통 현실
 
-![구름타고-02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/bd1349c0-90e2-4443-8451-daa6c4bb739b/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-02.png)
+![구름타고-02.png](../img/구름타고-02.png)
 
-![구름타고-03.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/17b63378-0153-42cc-8ad4-412f7717f749/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-03.png)
+![구름타고-03.png](../img/구름타고-03.png)
 
-![구름타고-04.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/c09d6d93-7dac-49c1-8abb-bdfd9037234d/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-04.png)
+![구름타고-04.png](../img/구름타고-04.png)
 
 - 자차 및 대중교통의 불편함과 부족한 택시비 지원으로 이동의 어려움.
 - 고령 운전자 증가로 인한 교통사고 위험.
@@ -36,7 +44,7 @@
 
 ### 문제 인식
 
-![구름타고-05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/8bb08401-e682-4bec-bf1d-e59c73b45b97/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-05.png)
+![구름타고-05.png](../img/구름타고-05.png)
 
 - **대한민국 노인 빈곤율 OECD 1위** (43.4%)로 택시 이용 부담 가중.
 - 제주 행복택시 지원에도 불구하고 금액 부족으로 대중교통 의존.
@@ -45,9 +53,9 @@
 
 ## 🚀 솔루션: 모다가
 
-![구름타고-08.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/885dd91e-a14a-46c0-a6a2-873c7ef61021/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-08.png)
+![구름타고-08.png](../img/구름타고-08.png)
 
-![구름타고-12.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/f7aaff35-a45f-4e36-ba01-65d88f1dfb18/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-12.png)
+![구름타고-12.png](../img/구름타고-12.png)
 
 1. **동승 서비스**
     - 출발지와 목적지 기반 매칭으로 동승자 찾기.
@@ -65,7 +73,7 @@
 
 ## 🌍 기대 효과
 
-![구름타고-14.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/1af12afa-1575-475a-907c-0cb8623ee1b6/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-14.png)
+![구름타고-14.png](../img/구름타고-14.png)
 
 - **금전적 부담 감소**: 택시 요금 분담으로 비용 절약.
 - **이동권 확대**: 원하는 시간과 장소에서 이동 가능.
@@ -76,7 +84,12 @@
 
 ## 🔧 기술 스택
 
-![구름타고-13.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/3c48f584-9d53-440f-85f8-7e2f53c170eb/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-13.png)
+![구름타고-13.png](../img/구름타고-13.png)
+
+| **Front-End** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Back-End**  | ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-%23003345.svg?style=for-the-badge&logo=mariadb&logoColor=white)                                   |
+| **Tools**     | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)                                                 |
 
 - **Frontend**: React
 - **Backend**: Spring boot / java / jpa /swagger
@@ -113,6 +126,6 @@
 
 ---
 
-![구름타고-15.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38552da6-340d-42c1-a9a1-b181ff331f03/cfc85d1c-ae29-469a-9b9d-6caa0b494a14/%EA%B5%AC%EB%A6%84%ED%83%80%EA%B3%A0-15.png)
+![구름타고-15.png](../img/구름타고-15.png)
 
 Team 구름타고 | 12th 9oormthon in Jeju
