@@ -64,5 +64,11 @@
 
 ---
 
+## 🔗 서비스 URL
+
+- **Primary URL**: [goormtago.qook.io](http://goormtago.qook.io)  
+- **Backup URL**: [Krampoline](https://k28f46a14160fa.user-app.krampoline.com/)
+
+---
 
 Team 구름타고 | 12th 9oormthon in Jeju
