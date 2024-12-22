@@ -10,11 +10,9 @@
 
 ---
 <br/><br/>
-
 ## 🌟 조직 소개
 
 모다가는 제주 지역 어르신들이 겪는 교통 불편을 해결하기 위해 만들어진 혁신적인 서비스입니다.<br/><br/>
-
 ## 🍊 Teams
 
 |                                              기획                                               |                                            디자인                                             |                                             FE                                              |                                             FE                                              |                                             BE                                              |
@@ -30,7 +28,6 @@
 
 ---
 <br/><br/>
-
 ## 💡 프로젝트 배경
 
 ### 제주 어르신들의 교통 현실
@@ -54,7 +51,6 @@
 
 ---
 <br/>
-
 ## 🚀 솔루션: 모다가
 
 ![구름타고-08.png](../img/구름타고-08.png)
@@ -77,7 +73,6 @@
 
 ---
 <br/>
-
 ## 🌍 기대 효과
 
 ![구름타고-14.png](../img/구름타고-14.png)
@@ -89,7 +84,6 @@
 
 ---
 <br/>
-
 ## 🔧 기술 스택
 
 ![구름타고-13.png](../img/구름타고-13.png)
@@ -109,7 +103,6 @@
 
 ---
 <br/>
-
 ## 🔗 서비스 URL
 
 - **krampoline URL**: [크램폴린 링크](https://k28f46a14160fa.user-app.krampoline.com/)
@@ -117,7 +110,6 @@
 
 ---
 <br/>
-
 ## 📂 Git Repository
 
 - **GitHub Repository**: [Goormtago GIT Organization](https://github.com/goormtago)
